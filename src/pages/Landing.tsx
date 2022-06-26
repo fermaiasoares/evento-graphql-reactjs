@@ -28,7 +28,7 @@ export function Landing() {
         <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
             <img
                 className="absolute -z-10"
-                src="/src/assets/images/reactjs-icon.png"
+                src="./assets/images/reactjs-icon.png"
                 alt=""
             />
 
@@ -80,7 +80,7 @@ export function Landing() {
                 </div>
             </div>
 
-            <img src="/src/assets/images/code-mockup.png" alt="" className="mt-10" />
+            <img src="./assets/images/code-mockup.png" alt="" className="mt-10" />
             <div className="w-full bg-gray-700">
                 <Footer />
             </div>
